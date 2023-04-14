@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Revannavar</h1>
-<h3 align="center">A passionate data enthusiast student from Berlin.</h3>
+<h3 align="center">I am Student at HTW Berlin, studying Master's in Professional IT Business & Digitalization.</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif")
 
 - 🔭 I’m currently working on [curious-containers](https://github.com/curious-containers/curious-containers)
 
