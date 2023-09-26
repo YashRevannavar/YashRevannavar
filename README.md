@@ -2,11 +2,11 @@
 <h3 align="center">I am Student at HTW Berlin, studying Master's in Professional IT Business & Digitalization.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently working on [curious-containers](https://github.com/curious-containers/curious-containers)
+- 🔭 I’m currently Working student at Siemens.
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashRevannavar](https://github.com/YashRevannavar)
 
-- 📫 How to reach me **yashrevannavar13@gmail.com**
+- 📫 How to reach me **[Website](https://yashrevannavar.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
